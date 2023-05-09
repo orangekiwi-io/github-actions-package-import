@@ -1,0 +1,16 @@
+{
+  "name": "github-actions-package-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@orangekiwi-io/github-actions-package": "^1.0.0",
+    "next-auth": "^4.22.1"
+  }
+}
